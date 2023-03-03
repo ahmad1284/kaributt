@@ -991,5 +991,3 @@
       <section class="rlr-section">
         <div class="container">
 <hr>
-
-        <?php include("footer.php");  ?>
